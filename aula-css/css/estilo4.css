@@ -1,0 +1,40 @@
+.borda {
+    border: 1px solid red;
+}
+
+.azul {
+    background: blue;
+}
+
+.vermelha {
+    background: red;
+}
+
+.verde {
+    background: green;
+}
+
+h1 {
+    height: 150px;
+}
+
+li {
+    display: inline-block;
+    width: 33%;
+}
+
+#p1 {
+    display: none;
+}
+
+div {
+    display: inline-block;
+    width: 20%;
+    height: 150px;
+}
+
+a.botao {
+    display: inline-block;
+    width: 20%;
+    height: 150px;
+}

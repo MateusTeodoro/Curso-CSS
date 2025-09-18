@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=WindSong&display=swap');
+
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    color: white;
+    border-top: 1px dashed green;
+    border-left: 1px dashed red;
+    border-right: 1px dashed blue;
+    border-bottom: 1px dashed orange;
+    border-radius: 20px;
+    text-align: center;
+    background-color: black;
+    margin: 30px 70px 150px 20px;
+    padding: 50px 70px 50px 10px;
+    font-family: "WindSong", cursive;
+}
+
+p {
+    color: black;
+    text-align: justify;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    word-spacing: 15px;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.exemplo-back {
+    height: 300px;
+    background: gray url("../img/pexels-suzyhazelwood-1629236.jpg") no-repeat center;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
+.botao {
+    margin-left: 33%;
+    background-color: green;
+    color: white;
+    padding: 30px 50px 30px 50px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.botao-hover {
+    background: blue;
+}
+
+.teste {
+    max-width: 800px;
+    height: 150px;
+    background: cyan;
+}

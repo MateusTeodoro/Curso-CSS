@@ -1,0 +1,43 @@
+body {
+    background: #ccc;
+}
+
+p {
+    color: red;
+}
+
+h1 {
+    color: blue;
+    font-size: 88px;
+}
+
+h2 {
+    color: darkmagenta;
+    font-size: 100px;
+}
+
+.center {
+    text-align: center;
+}
+
+.vermelho {
+    color: red;
+}
+
+.fonte-30 {
+    font-size: 30px;
+}
+
+#teste {
+    color: white;
+    background-color: black;
+}
+
+*{
+    padding: 20px;
+}
+
+h1, p{
+    color: red;
+    text-align: center;
+}
